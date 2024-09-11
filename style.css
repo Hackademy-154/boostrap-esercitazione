@@ -1,0 +1,13 @@
+h1 {letter-spacing: 10px;
+    font-size: 4rem;
+
+}
+header{
+    background:linear-gradient(transparent,black),url(./imgh_11zon.jpg);
+    background-position: center;
+    background-size: cover;
+    
+}
+body {
+    background-color: black;
+}
